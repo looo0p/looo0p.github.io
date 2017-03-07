@@ -12,8 +12,6 @@
 #Logo {
 	height:216px;
 	width:766px;
-	display:block;
-    margin-left: auto;
-    margin-right: auto;
+	margin:auto;
 }
 
